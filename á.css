@@ -16,9 +16,10 @@ background-repeat: no-repeat;
 
 #idezet {
   width: 33%;
-0
+
 }
 
 body{
   min-height: 100vh;
+  height: 100%;
 }
