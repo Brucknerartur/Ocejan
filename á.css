@@ -23,3 +23,15 @@ body{
   min-height: 100vh;
   height: 100%;
 }
+
+.dropdown-menu{
+  background-color: transparent !important;
+}
+.dropdown-item:hover {
+  background-color: transparent !important;
+}
+.dropdown-item {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  /* text-align: center !important; */
+  }
