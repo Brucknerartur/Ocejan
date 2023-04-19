@@ -1,0 +1,50 @@
+.novenybutton {
+    position: absolute;
+    top: 30rem;
+}
+
+.novenykep {
+    height: 15rem;
+}
+
+#hatter {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 90%;
+    height: 90%;
+    z-index: -678153678156789;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(images/agyf.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-rows: auto 1fr 1fr;
+}
+
+.dropdown-menu {
+    background-color: transparent !important;
+}
+
+.dropdown-item:hover {
+    background-color: transparent !important;
+}
+
+.dropdown-item {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    /* text-align: center !important; */
+}
+
+.dropdown-menu.show {
+    margin-top: 7px
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}
