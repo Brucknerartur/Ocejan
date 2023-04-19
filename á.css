@@ -9,24 +9,29 @@
   z-index: -678153678156789;
 }
 
-#idezet {
-  width: 33%;
-
+body {
+  min-height: 100vh;
+  background-image: url(images/agyf.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: grid;
+  grid-template-rows: auto 1fr 1fr;
 }
 
-body{
-  min-height: 100vh;  
-} 
-
-.dropdown-menu{
+.dropdown-menu {
   background-color: transparent !important;
 }
+
 .dropdown-item:hover {
   background-color: transparent !important;
 }
+
 .dropdown-item {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
   /* text-align: center !important; */
 }
 
+.dropdown-menu.show {
+  margin-top: 7px
+}
