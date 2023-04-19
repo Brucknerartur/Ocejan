@@ -5,3 +5,7 @@
 .novenykep{
     height: 15rem;
 }
+
+body{
+    display: block; !important;
+}
