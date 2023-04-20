@@ -18,13 +18,7 @@ body {
   grid-template-rows: auto 1fr 1fr;
 }
 
-.dropdown-menu {
-  background-color: transparent !important;
-}
 
-.dropdown-item:hover {
-  background-color: transparent !important;
-}
 
 .dropdown-item {
   padding-top: 0 !important;
@@ -33,5 +27,10 @@ body {
 }
 
 .dropdown-menu.show {
-  margin-top: 7px
+  margin-top: 7px;
+  font-weight: bold;
+}
+
+#dropdown{
+  font-weight: bold !important;
 }
