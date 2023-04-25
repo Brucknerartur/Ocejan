@@ -10,3 +10,27 @@
 .halakcard{
     height: 25rem;
 }
+
+.h2{
+    margin: 10px;
+    text-decoration: underline;
+}
+
+.titanickep{
+    float: right;
+    width: 700px;
+    margin: 12px;
+    border: 3px black solid;
+}
+
+.titanic2{
+    float: right;
+    width: 700px;
+    margin: 12px;
+    border: 3px black solid;
+}
+
+.titanicbekezdes{
+    margin: 12px;
+    font-size: 150%;
+}
