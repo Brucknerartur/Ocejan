@@ -24,7 +24,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
+}
+
+body.a{
     grid-template-rows: auto 1fr 1fr;
+}
+
+body.b{
+    grid-template-rows: auto 1fr;
 }
 
 .dropdown-menu {

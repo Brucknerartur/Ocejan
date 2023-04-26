@@ -7,11 +7,18 @@
 }
 
 body{
-    display: block; !important;
+    display: block !important;
 }
 .kereskedes{
     max-height: 50rem;
 }
 .kereskedeskep{
     width: 47rem;
+}
+.asd{
+    display: none;
+    transition: top;
+}
+.asd{
+
 }
