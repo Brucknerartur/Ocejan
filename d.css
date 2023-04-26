@@ -5,6 +5,7 @@
 
 .halakcarusel{
     height: 50rem;
+    width: 95%;
 }
 
 .halakcard{
@@ -34,3 +35,33 @@
     margin: 12px;
     font-size: 150%;
 }
+
+.titanictable{
+    margin: 20px;
+    border: 2px black solid;
+    width: 60%;
+}
+
+.titanictabletd{
+    text-align: center;
+}
+
+.roncscarusel{
+    height: 25rem;
+    width: 95%;
+}
+
+.tabletd{
+    text-align: center;
+}
+
+.elvalaszto{
+    border: 3px black solid;
+}
+
+.adriatitanicja{
+    margin: 15px;
+    height: 10rem;
+    width: 40%;
+}
+
