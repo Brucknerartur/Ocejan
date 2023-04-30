@@ -31,6 +31,7 @@
 .dropdown-menu.show {
   margin-top: 7px;
   font-weight: bold;
+  background-color:lightblue;
 }
 
 #dropdown{
@@ -47,6 +48,7 @@ vertical-align: middle !important;
 
 #cim{
   text-align: center;
+
 }
 
 #szutyok{
@@ -55,4 +57,28 @@ vertical-align: middle !important;
 
 #v{
   vertical-align: middle !important;
+}
+
+.cimfo{
+  font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+
+.t{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.cimfo2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-decoration: underline;
+  text-decoration-color: black;
+  
+}
+
+.kepek{
+  image-resolution: 10rem;
+}
+.bgk{
+  background-color: lightblue;
 }
