@@ -1,24 +1,31 @@
-.novenybutton{
+.novenybutton {
     position: absolute;
     top: 31rem;
 }
-.novenykep{
+
+.novenykep {
     height: 15rem;
 }
 
-body{
+body {
     display: block !important;
 }
-.kereskedes{
+
+.kereskedes {
     max-height: 50rem;
 }
-.kereskedeskep{
+
+.kereskedeskep {
     width: 47rem;
 }
-.asd{
-    display: none;
-    transition: top;
-}
-.asd{
 
+.asd {
+    display: none;
+}
+
+.DIV{
+    margin-top: 6rem;
+}
+.DIV2{
+    box-shadow: 10px 5px 5px black;
 }
