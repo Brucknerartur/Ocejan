@@ -55,3 +55,199 @@ h1{
     text-align: center;
     margin: 50px;
 }
+.novenybutton {
+    position: absolute;
+    top: 31rem;
+}
+
+.novenykep {
+    height: 15rem;
+}
+
+body {
+    display: block !important;
+}
+
+.kereskedes {
+    max-height: 50rem;
+}
+
+.kereskedeskep {
+    width: 47rem;
+}
+
+.asd {
+    display: none;
+}
+
+.DIV{
+    margin-top: 6rem;
+}
+.DIV2{
+    box-shadow: 10px 5px 5px black;
+}
+#hatter {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: 90;
+    height: 90%;
+    z-index: -678153678156789;
+}
+
+.a {
+    min-height: 100vh;
+    background-image: url(images/agyf.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-rows: auto 1fr 1fr;
+    background-position: center;
+    display: block  ;
+}
+
+
+
+.dropdown-item {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    /* text-align: center !important; */
+}
+
+.dropdown-menu.show {
+    margin-top: 7px;
+    font-weight: bold;
+    background-color:lightblue;
+}
+
+#dropdown{
+    font-weight: bold !important;
+}
+
+#acc{
+    vertical-align: middle !important;
+}
+
+#kepek{
+    height: 30rem ;
+}
+
+#cim{
+    text-align: center;
+
+}
+
+#szutyok{
+    border: solid 5 blue;
+}
+
+#v{
+    vertical-align: middle !important;
+}
+
+.cimfo{
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.t{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.cimfo2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    text-decoration-color: black;
+
+}
+
+.kepek{
+    image-resolution: 10rem;
+}
+.bgk{
+    background-color: lightblue;
+}
+
+.ragadozocim{
+    text-align: center;
+    margin: 50px;
+}
+
+.halakcarusel{
+    height: 50rem;
+    width: 95%;
+}
+
+.halakcard{
+    height: 25rem;
+}
+
+.h2{
+    margin: 10px;
+    text-decoration: underline;
+}
+
+.titanickep{
+    float: right;
+    width: 700px;
+    margin: 12px;
+    border: 3px black solid;
+}
+
+.titanic2{
+    float: right;
+    width: 700px;
+    margin: 12px;
+    border: 3px black solid;
+}
+
+.titanicbekezdes{
+    margin: 12px;
+    font-size: 150%;
+}
+
+.titanictable{
+    margin: 20px;
+    border: 2px black solid;
+    width: 60%;
+}
+
+.titanictabletd{
+    text-align: center;
+}
+
+.roncscarusel{
+    height: 25rem;
+    width: 95%;
+}
+
+.tabletd{
+    text-align: center;
+}
+
+.elvalaszto{
+    border: 3px black solid;
+}
+
+.adriatitanicja{
+    margin: 15px;
+    height: 10rem;
+    width: 40%;
+}
+
+.barongautschkep{
+    border: 3px black solid;
+
+    margin: 12px;
+}
+
+.titaniccarousel{
+    float: right;
+    width: 700px;
+    margin: 12px;
+    border: 3px black solid;
+}
+
