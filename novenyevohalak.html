@@ -5,11 +5,87 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Növényevő halak</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="ccs.css">
     <link rel="stylesheet" href="d.css">
   </head>
   <body>
-    <h1 class="ragadozocim">Növényevő halak</h1>
 
+<div class="container-fluid">
+
+  <nav class="navbar navbar-expand-lg bg-clear">
+    <div class="container-fluid border-bottom border-black " id="navbar">
+      <a class="navbar-brand fs-3 cimfo" href="index.html">AZ ÓCEÁNOK VILÁGA</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <contanier class="text-end container-fluid">
+        <div class="collapse navbar-collapse csodasclass" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+
+
+
+
+
+            <li class="nav-item dropdown">
+              <a id="dropdown" class="nav-link dropdown-toggle fw-bold t" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Történelem
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item t" href="jelentoseg.html">Jelentőség</a></li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item t" href="roncsok.html">Roncsok</a></li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item t" href="kereskedes.html">Kereskedés</a></li>
+              </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a id="dropdown" class="nav-link dropdown-toggle fw-bold t" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Halak
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item t" href="ragadozohalak.html">Ragadozók</a></li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item t " href="novenyevohalak.html">Növényevők</a></li>
+              </ul>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link  fw-bold t" aria-current="page" href="novenyvilag.html">Növényvilág</a>
+            </li>
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  fw-bold t" aria-current="page" href="szennyezes.html">Szennyezés</a>
+            </li>
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  fw-bold t" aria-current="page" href="teoriak.html">Teóriák</a>
+            </li>
+
+            </li>
+          </ul>
+
+        </div>
+      </contanier>
+    </div>
+  </nav>
+
+  
+  <h1 class="ragadozocim">Növényevő halak</h1>
+  
     <div class="container">
       <div id="carouselExampleCaptions" class="carousel slide w-100">
         <div class="carousel-indicators">
@@ -22,31 +98,31 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="halakcarusel" src="images/csiklohal.jpg" class="d-block w-100" alt="Csiklóhal">
+            <img class="img-fluid halakcarusel" src="images/csiklohal.jpg" class="d-block w-100" alt="Csiklóhal">
             <div class="carousel-caption d-none d-md-block">
               <h5>Csiklóhal</h5>
               <p>A tengeri csikók Indonézia partjai mentén egészen Ausztráliáig, Európa, Afrika és Észak-Amerika atlanti-óceáni partjainál megtalálhatók. Egyes fajok Amerika csendes-óceáni partvidékének vizeiben élnek. </p>
             </div>
           </div>
-  
+          
           <div class="carousel-item">
-            <img class="halakcarusel" src="images/bohochal.jpg" class="d-block w-100" alt="Bohóchal">
+            <img class="img-fluid halakcarusel" src="images/bohochal.jpg" class="d-block w-100" alt="Bohóchal">
             <div class="carousel-caption d-none d-md-block">
               <h5>Bohóchal</h5>
               <p>Az Amphiprion csontoshal-nem különféle fajai megtalálhatók a Vörös-tengerben, az Indiai-óceánban és a Csendes-óceán trópusi vizeiben. A narancs bohóchal különösen az ausztrál Nagy-korallzátony térségében gyakori faj.</p>
             </div>
           </div>
-  
+          
           <div class="carousel-item">
-            <img class="halakcarusel" src="images/papagajhal.jpg" class="d-block w-100" alt="papagájhal">
+            <img class="img-fluid halakcarusel" src="images/papagajhal.jpg" class="d-block w-100" alt="papagájhal">
             <div class="carousel-caption d-none d-md-block">
               <h5>Papagájhal</h5>
               <p>Trópusi, korallzátonylakó, sósvízi halfaj, amely 2-25 méteres mélységekben él. A tengerfenéken levő köveket és koralltelepeket keresi fel. Az ivadék „mezőkbe” vonul, ahol nagy rajokban táplálkozik. Nyálka búrában alszik.</p>
             </div>
           </div>
-  
+          
           <div class="carousel-item">
-            <img class="halakcarusel" src="images/afrikaicichildhal.jpg" class="d-block w-100" alt="Afrikai Cichild">
+            <img class="img-fluid halakcarusel" src="images/afrikaicichildhal.jpg" class="d-block w-100" alt="Afrikai Cichild">
             <div class="carousel-caption d-none d-md-block">
               <h5>Afrikai Cichild</h5>
               <p>A kövületi bizonyítékok alapján először Tanzániában jelent meg az eocén korszakban , körülbelül 46-45 millió évvel ezelőtt. </p>
@@ -54,30 +130,31 @@
           </div>
           
           <div class="carousel-item">
-            <img class="halakcarusel" src="images/pillangohal.jpg" class="d-block w-100" alt="pillangóhal">
+            <img class="img-fluid halakcarusel" src="images/pillangohal.jpg" class="d-block w-100" alt="pillangóhal">
             <div class="carousel-caption d-none d-md-block">
               <h5>Pillangóhal</h5>
               <p>Afrika nyugati részén, Nigéria, Kamerun és a Kongó medencéjében él. Testhossza 10-15 centiméter.</p>
             </div>
           </div>
-  
+          
           <div class="carousel-item">
-            <img class="halakcarusel" src="images/surkeagelhal.jpg" class="d-block w-100" alt="szürkeangelhal">
+            <img class="img-fluid halakcarusel" src="images/surkeagelhal.jpg" class="d-block w-100" alt="szürkeangelhal">
             <div class="carousel-caption d-none d-md-block">
               <h5>Szürke Angyalhal</h5>
               <p>Jellemzője, hogy vékony és hosszúkás, könnyen mozoghat a növényzeten anélkül, hogy elkapnák. Szereti az algában gazdag helyeket.</p>
             </div>
           </div>
-    
-    
-    
-    
-    
+          
+          
+          
+          
+          
         </div>
 
-
-
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
-  </body>
+        
+      </div>
+        
+        
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+      </body>
 </html>
