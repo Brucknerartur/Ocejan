@@ -1,5 +1,5 @@
 Óceán!
-Ezen a HTML weboldalon az óceánokról, és tartalmáról találhatunk információkat. Az állatvilág, és az óceánban található tárgyakról lehet érdekes információkat olvasni. Reméljük, hogy élvezhető lesz.
+Ezen a HTML weboldalon az óceánokról, és tartalmáról találhatunk információkat. Az állatvilág, és az óceánban található tárgyakról lehet érdekes információkat olvasni. Reméljük, hogy élvezhető lesz. Jó szorakozást!
 
 Projekten belüli feladatelosztás:
 - Artúr: Kereskedelem, Növényvilág, Jelentőség 
