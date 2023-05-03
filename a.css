@@ -32,4 +32,6 @@ body {
 
 #easteregg{
     display: none;
+    width: 60%;
+    height: 37rem;
 }
