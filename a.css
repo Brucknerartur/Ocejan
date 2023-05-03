@@ -29,3 +29,7 @@ body {
 .DIV2{
     box-shadow: 10px 5px 5px #393838;
 }
+
+#easteregg{
+    display: none;
+}
