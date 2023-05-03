@@ -19,7 +19,6 @@
 
 .titanickep{
     float: right;
-    width: 700px;
     margin: 12px;
     border: 3px black solid;
 }
@@ -48,7 +47,7 @@
 
 .roncscarusel{
     height: 25rem;
-    width: 95%;
+    
 }
 
 .tabletd{
@@ -73,7 +72,8 @@
 
 .titaniccarousel{
     float: right;
-    width: 700px;
+    width: 100%;
+    max-width: 700px;
     margin: 12px;
     border: 3px black solid;
 }
