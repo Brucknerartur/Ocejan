@@ -20,11 +20,13 @@
 
 body {
     min-height: 100vh;
-    background-image: url(images/agyf.png);
+    background-image: radial-gradient(#7c82d8, #103a8a);
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
-}
+    grid-template-rows: auto 1fr 1fr;
+    background-position: center;
+    display: block;}
 
 body.a{
     grid-template-rows: auto 1fr 1fr;

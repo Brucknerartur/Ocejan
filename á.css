@@ -9,9 +9,9 @@
   z-index: -678153678156789;
 }
 
-.a {
+body {
   min-height: 100vh;
-  background-image: url(images/agyf.png);
+  background-image: radial-gradient(#7c82d8, #103a8a);
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
@@ -31,7 +31,7 @@
 .dropdown-menu.show {
   margin-top: 7px;
   font-weight: bold;
-  background-color: lightblue;
+  background-color: #7c82d8;
 }
 
 #dropdown {
