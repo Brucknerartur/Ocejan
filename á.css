@@ -92,3 +92,8 @@ body {
   max-width: fit-content;
   width: 100% !important;
 }
+
+.nagydiv{
+  background-image: radial-gradient(#b6cdf3, #051a41);
+  
+}
