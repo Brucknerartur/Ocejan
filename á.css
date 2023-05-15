@@ -31,7 +31,7 @@ body {
 .dropdown-menu.show {
   margin-top: 7px;
   font-weight: bold;
-  background-color: #7c82d8;
+  background-color: #4e6da5;
 }
 
 #dropdown {
@@ -96,4 +96,14 @@ body {
 .nagydiv{
   background-image: radial-gradient(#b6cdf3, #051a41);
   
+}
+
+.masszin{
+  background-color: #4e6da5;
+}
+
+.butt{
+  background-color: #4c6292;
+  border: none;
+
 }
