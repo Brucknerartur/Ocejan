@@ -461,6 +461,11 @@ body {
   
   .szk{
     max-width: fit-content;
+    size: 1em;
+  }
+
+  .szk2{
+    max-width: 100%;
     width: 100% !important;
   }
 
